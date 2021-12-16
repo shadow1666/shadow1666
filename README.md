@@ -34,6 +34,10 @@ So, now, in industry, this passion remains with me. There's certainly yet more t
 ☑️ Forex Trading.
 ☑️ Devops.
 ☑️ Mlops.
+☑️ Data Engineering.
+☑️ Big Data.
+
+
 
 ✔️Preferred Environment:
 ☑️Pycharm
